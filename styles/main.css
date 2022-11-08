@@ -1,0 +1,178 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Raleway:wght@400;700&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #1c2432;
+    
+    color: #fff;
+}
+
+/*====================
+    Navigation
+=====================*/
+.logo {
+    width: 75px;
+    height: auto;
+    cursor: pointer;
+}
+
+.gn {
+    margin: auto;
+    width: 95%;
+    height: 15vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.gn-items {
+    display: flex;
+    list-style: none;
+}
+.gn-items ul {
+    margin-top: 15px;
+}
+
+.gn-items li {
+    display: inline-block;
+}
+
+.gn-items li a {
+    display: block;
+    padding: 5px 12px;
+    text-decoration: none;
+    color: #fff;
+}
+
+.gn-items li a:hover {
+    text-decoration: underline;
+}
+
+/*====================
+    Helper
+=====================*/
+.theme-wrapper {
+    overflow-x: hidden;
+    max-width: 100%;
+}
+
+.container, .service-container  {
+    margin: 0 auto;
+    padding: 0 1.1rem;
+}
+
+.bnr-content {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.intro-desc {
+    /* width: 600px; */
+    margin: auto;
+    margin-bottom: 30px;
+}
+
+.intro-img, .productive-img {
+    width: 330px;
+    margin-bottom: 30px;
+}
+
+.intro-desc h1 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.5rem;
+    line-height: 2.5rem;
+    margin-bottom: 25px;
+}
+
+.intro-desc p {
+    /* width: 500px; */
+    font-size: 1rem;
+    line-height: 1.7rem;
+    font-weight: 400;
+    margin: 0 auto 30px;
+}
+
+.btn {
+    width: 250px;
+    padding: 15px;
+    outline: none;
+    border: none;
+    background-color: #8ADAE3;
+    border-radius: 25px;
+    color: #fff;
+}
+
+.btn a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.curvy-bg {
+    position: relative;
+    top: -210px;
+    width: 100%;
+    height: 30vh;
+    z-index: -1;
+}
+
+/*====================
+    Service Section
+=====================*/
+.service-container {
+    background-color: #181F2B;
+    width: 100%;
+    height: auto;
+    position: relative;
+    top: -220px;
+    z-index: -1;
+}
+
+.services {
+    width: 100%;
+    /* min-height: 50vh; */
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.service-wrapper {
+    margin: 30px 0;
+}
+.service-wrapper img {
+    width: 70px;
+    height: auto;
+    margin-bottom: 25px;
+}
+
+.service-desc {
+    font-size: 0.9em;
+    line-height: 1.5rem;
+}
+
+.productive-info {
+    background-color: #181F2B;
+}
+
+/*====================
+    Media Query
+=====================*/
+
+
+.attribution { 
+    font-size: 11px; text-align: center; 
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
