@@ -1,4 +1,4 @@
-# Fylo-Dark-Teme-Landing-Page
+# Fylo-Dark-Theme-Landing-Page
 
 <img width="1515" alt="Screenshot 2022-12-08 at 2 28 56 PM" src="https://user-images.githubusercontent.com/96286575/206580691-b074847d-61ac-4b07-b488-082d38f87ce5.png">
 
@@ -8,8 +8,6 @@
 
 
 # Frontend Mentor - Fylo dark theme landing page
-
-![Design preview for the Fylo dark theme landing page challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
 
