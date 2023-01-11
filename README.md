@@ -1,8 +1,8 @@
 # Frontend Mentor - Fylo dark theme landing page
 
 ## Table of Contents
-- [The Challenge](#challenge-1)
-- [Screenshots](#screenshots-2)
+- [The Challenge]
+- [Screenshots]
 
 ## Overview
 
