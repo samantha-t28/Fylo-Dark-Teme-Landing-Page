@@ -1,7 +1,5 @@
 # Frontend Mentor - Fylo dark theme landing page
 
-## Welcome! 👋
-
 ## The challenge
 
 The design challenge is to code the design as close as possible. I've used css and bootstrap for this project to get myself familiar with the framework.
