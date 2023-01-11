@@ -25,8 +25,10 @@ Users should be able to:
 
 ## Desktop 
 <img width="1447" alt="Screenshot 2023-01-11 at 11 36 23 AM" src="https://user-images.githubusercontent.com/96286575/211901294-cc0103aa-de6b-44df-9176-f96f4f489b13.png">
+
 ## Tablet
 <img width="741" alt="Screenshot 2023-01-11 at 11 37 33 AM" src="https://user-images.githubusercontent.com/96286575/211901507-7682efef-bd01-446a-b91f-0752652f3532.png">
+
 ## Mobile
 <img width="371" alt="Screenshot 2023-01-11 at 11 38 47 AM" src="https://user-images.githubusercontent.com/96286575/211901698-41bb1842-e52c-4619-96fd-3cf750b652f4.png">
 
