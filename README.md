@@ -1,8 +1,9 @@
 # Frontend Mentor - Fylo dark theme landing page
 
 ## Table of Contents
-- [The Challenge]
-- [Screenshots]
+- [The Challenge](#challenge-1)
+- [Language](#language-2)
+- [Screenshots](#screenshots-3)
 
 ## Overview
 
@@ -14,6 +15,11 @@ Users should be able to:
 
 -   View the optimal layout for the site depending on their device's screen size
 -   See hover states for all interactive elements on the page
+
+## Language
+* HTML
+* Bootstrap
+* CSS
 
 ## Screenshots
 
