@@ -1,19 +1,30 @@
 # Frontend Mentor - Fylo dark theme landing page
 
-## The challenge
+## Table of Contents
+[The Challenge](#challenge-1)
+[Screenshots](#screenshots-2)
 
-The design challenge is to code the design as close as possible. I've used css and bootstrap for this project to get myself familiar with the framework.
+## Overview
+
+## The Challenge 1
+
+The design challenge is to code the design as close as possible. You can use any tools you like to help you complete the challenge.
 
 Users should be able to:
 
 -   View the optimal layout for the site depending on their device's screen size
 -   See hover states for all interactive elements on the page
 
-<img width="1515" alt="Screenshot 2022-12-08 at 2 28 56 PM" src="https://user-images.githubusercontent.com/96286575/206580691-b074847d-61ac-4b07-b488-082d38f87ce5.png">
+## Screenshots 2
 
-<img width="912" alt="Screenshot 2022-12-08 at 2 29 24 PM" src="https://user-images.githubusercontent.com/96286575/206580752-1a7576d6-c663-4383-bb12-688b3965d882.png">
+Desktop 
+<img width="1447" alt="Screenshot 2023-01-11 at 11 36 23 AM" src="https://user-images.githubusercontent.com/96286575/211901294-cc0103aa-de6b-44df-9176-f96f4f489b13.png">
 
-<img width="602" alt="Screenshot 2022-12-08 at 2 34 34 PM" src="https://user-images.githubusercontent.com/96286575/206581469-2d4b4099-abc8-41e5-bc89-87993ffcf0eb.png">
+Tablet
+<img width="741" alt="Screenshot 2023-01-11 at 11 37 33 AM" src="https://user-images.githubusercontent.com/96286575/211901507-7682efef-bd01-446a-b91f-0752652f3532.png">
+
+Mobile
+<img width="371" alt="Screenshot 2023-01-11 at 11 38 47 AM" src="https://user-images.githubusercontent.com/96286575/211901698-41bb1842-e52c-4619-96fd-3cf750b652f4.png">
 
 
 
